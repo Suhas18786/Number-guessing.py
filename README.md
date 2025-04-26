@@ -1,1 +1,1 @@
-# Number-guessing.py
+This is a Number guessing game
